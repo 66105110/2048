@@ -25,6 +25,71 @@ header #newgamebutton:hover{
 	background-color:#9f8b77;
 	}
 	
+header #phoneUp{
+	display:inline-block;
+	margin:20px auto;
+	
+	width:100px;
+	padding:10px 10px;
+	background-color:#8f7a66;
+	font-family:Arial;
+	color:white;
+	border-radius:10px;
+	text-decoration:none;
+	}
+	
+header #phoneUp:hover{
+	background-color:#9f8b77;
+	}
+
+header #phoneRight{
+	display:inline-block;
+	margin:20px auto;
+	
+	width:100px;
+	padding:10px 10px;
+	background-color:#8f7a66;
+	font-family:Arial;
+	color:white;
+	border-radius:10px;
+	text-decoration:none;}
+	
+header #phoneRight:hover{
+	background-color:#9f8b77;
+	}
+
+header #phoneDown{
+	display:inline-block;
+	margin:20px auto;
+	
+	width:100px;
+	padding:10px 10px;
+	background-color:#8f7a66;
+	font-family:Arial;
+	color:white;
+	border-radius:10px;
+	text-decoration:none;}
+	
+header #phoneDown:hover{
+	background-color:#9f8b77;
+	}
+
+header #phoneLeft{
+	display:inline-block;
+	margin:20px auto;
+	
+	width:100px;
+	padding:10px 10px;
+	background-color:#8f7a66;
+	font-family:Arial;
+	color:white;
+	border-radius:10px;
+	text-decoration:none;}
+	
+header #phoneLeft:hover{
+	background-color:#9f8b77;
+	}
+
 header p{
 	font-family:Arial;
 	font-size:25px;
