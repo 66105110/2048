@@ -4,6 +4,12 @@ header{
 	width:100%;
 	text-align:center;}
 
+#phone{
+	display:block;
+	margin:0 auto;
+	width:100%;
+	text-align:center;}
+
 header h1{
 	font-family:Arial;
 	font-size:40px;
@@ -25,7 +31,7 @@ header #newgamebutton:hover{
 	background-color:#9f8b77;
 	}
 	
-header #phoneUp{
+#phoneUp{
 	display:block;
 	margin:20px auto;
 	
@@ -38,11 +44,11 @@ header #phoneUp{
 	text-decoration:none;
 	}
 	
-header #phoneUp:hover{
+#phoneUp:hover{
 	background-color:#9f8b77;
 	}
 
-header #phoneRight{
+#phoneRight{
 	display:inline-block;
 	margin:20px auto;
 	
@@ -54,11 +60,11 @@ header #phoneRight{
 	border-radius:10px;
 	text-decoration:none;}
 	
-header #phoneRight:hover{
+#phoneRight:hover{
 	background-color:#9f8b77;
 	}
 
-header #phoneDown{
+#phoneDown{
 	display:inline-block;
 	margin:20px auto;
 	
@@ -70,11 +76,11 @@ header #phoneDown{
 	border-radius:10px;
 	text-decoration:none;}
 	
-header #phoneDown:hover{
+#phoneDown:hover{
 	background-color:#9f8b77;
 	}
 
-header #phoneLeft{
+#phoneLeft{
 	display:inline-block;
 	margin:20px auto;
 	
@@ -86,7 +92,7 @@ header #phoneLeft{
 	border-radius:10px;
 	text-decoration:none;}
 	
-header #phoneLeft:hover{
+#phoneLeft:hover{
 	background-color:#9f8b77;
 	}
 
