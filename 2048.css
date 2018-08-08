@@ -26,7 +26,7 @@ header #newgamebutton:hover{
 	}
 	
 header #phoneUp{
-	display:inline-block;
+	display:block;
 	margin:20px auto;
 	
 	width:100px;
@@ -100,7 +100,7 @@ header p{
 	height:460px;
 	padding:20px;
 	
-	margin:50px auto;
+	margin:20px auto;
 	background-color:#bbada0;
 	
 	border-radius:10px;
