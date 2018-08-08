@@ -11,6 +11,38 @@ function newgame(){
 	generateOneNumber();
 	}
 	
+function Up(){
+	if(moveUp())
+		{
+			setTimeout("generateOneNumber()",210);
+			setTimeout("isgameover()",300);
+		}
+	}
+	
+function Right(){
+	if(moveRight())
+		{
+			setTimeout("generateOneNumber()",210);
+			setTimeout("isgameover()",300);
+		}
+	}	
+	
+function Down(){
+	if(moveDown())
+		{
+			setTimeout("generateOneNumber()",210);
+			setTimeout("isgameover()",300);
+		}
+	}	
+
+function Left(){
+	if(moveLeft())
+		{
+			setTimeout("generateOneNumber()",210);
+			setTimeout("isgameover()",300);
+		}
+	}
+
 function restartgame()
 {
 	$("#gameover").remove();
